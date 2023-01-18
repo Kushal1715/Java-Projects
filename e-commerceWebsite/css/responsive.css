@@ -1,0 +1,30 @@
+@media screen and (max-width:1100px){
+    nav{
+        flex-direction: column;
+    }
+
+    .logo{
+        justify-content: center;
+    }
+    .logo img{
+        margin: 12px 0px;
+    }
+
+    nav ul{
+        justify-content: center;
+    }
+    .search{
+        justify-content: center;
+    }
+
+    .scroll{
+        height: 23vh;
+    }
+
+    .cards{
+        margin:50px auto;
+    }
+    footer{
+        margin: 30px 0px;
+    }
+}
